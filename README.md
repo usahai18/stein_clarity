@@ -1,3 +1,3 @@
-# ViSafe: Vision-enabled Safety for High-speed Detect and Avoidance
+# Stein Clarity
 
-Paper Website for ViSafe
+Paper Website for Stein Clarity
